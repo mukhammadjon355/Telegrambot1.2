@@ -6,7 +6,7 @@ import time
 import threading
 
 # ====== 1. API TOKEN ======
-API_TOKEN = "7834766258:AAEi4Qj9KoWllicOuKzA2ItCkCMyaj06rQ0"
+API_TOKEN = ""
 bot = telebot.TeleBot(API_TOKEN)
 user_ids = set()
 
